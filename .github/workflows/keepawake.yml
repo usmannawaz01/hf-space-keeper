@@ -18,5 +18,5 @@ jobs:
         run: |
           echo "Pinging Space..."
           curl -L --fail --max-time 180 --retry 3 --retry-delay 15 \
-            "https://usmannawaz/oldslaviclemma.hf.space/"
+            "https://usmannawaz-oldslaviclemma.hf.space/"
           echo "Ping completed."
